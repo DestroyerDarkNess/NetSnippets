@@ -1,5 +1,5 @@
 # NetSnippets
-Snippets Collection for Net | Make your Contribution!
+Snippets Collection for .Net | Make your Contribution!
 
 ## What is a Snippet?
 It is a portion of code that usually contains one or more Subroutines with the purpose of performing a specific task,
